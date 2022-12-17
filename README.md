@@ -1,6 +1,6 @@
 # Neoflex_Patterns
 
-- Singelton 
+- [Singelton](https://github.com/ElizbethK/Neoflex_Patterns/tree/main/neoflex/singleton)
 
 Create a logging class. The method in it should output the name of the passed class and additional information. (log info: First Class, SecondClass)
 
